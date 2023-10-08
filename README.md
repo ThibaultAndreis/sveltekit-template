@@ -2,7 +2,7 @@
 
 This is my custom sveltekit template
 
-It includes tailwind, i18n, dark theme management, pm2 and prettier v2.8 as v3 is broken
+It includes tailwind, i18n, dark theme management, superforms, pm2 and prettier v2.8 as v3 is broken
 
 ## Creating a project
 
