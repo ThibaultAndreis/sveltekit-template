@@ -13,3 +13,25 @@ body {
     width: 100vw;
 }
 
+h1 {
+    @apply text-5xl font-bold;
+}
+
+h2 {
+    @apply text-xl font-bold;
+}
+
+a {
+    @apply text-pink-800;
+    @apply dark:text-pink-300;
+
+    &:visited {
+        @apply text-purple-800;
+        @apply text-purple-400;
+    }
+
+    &:hover,
+    &:focus {
+        @apply underline;
+    }
+}
